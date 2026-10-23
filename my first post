@@ -1,0 +1,36 @@
+<!DOCTYPE html><html>
+<head>
+    <title>Registration Form</title>
+</head>
+                 <body><h2>Arpit service Time</h2>
+
+<form action="https://formsubmit.co/officialuv777@gmail.com" method="POST">
+
+    <label>Name:</label><br>
+    <input type="text" name="Name" required>
+    <br><br>
+
+    <label>Email:</label><br>
+    <input type="email" name="Email" required>
+    <br><br>
+
+    <label>Phone:</label><br>
+    <input type="tel" name="Phone" required>
+    <br><br>
+
+    <label>Time:</label><br>
+    <textarea name="Time"></textarea>
+    <br><br>
+
+
+    <label>Room No:</label><br>
+    <input type="tel" name="Room No" required>
+    <br><br>
+    
+
+    <button type="submit">Submit</button>
+
+</form>
+
+</body>
+</html>
